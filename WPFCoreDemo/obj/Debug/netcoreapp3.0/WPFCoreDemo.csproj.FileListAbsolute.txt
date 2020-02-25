@@ -1,0 +1,16 @@
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.exe
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.deps.json
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.runtimeconfig.json
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.runtimeconfig.dev.json
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.dll
+D:\workspace\WPF\WPFCoreDemo\bin\Debug\netcoreapp3.0\WPFCoreDemo.pdb
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\App.g.cs
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo_MarkupCompile.cache
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo_MarkupCompile.lref
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo.g.resources
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo.AssemblyInfoInputs.cache
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo.AssemblyInfo.cs
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo.dll
+D:\workspace\WPF\WPFCoreDemo\obj\Debug\netcoreapp3.0\WPFCoreDemo.pdb
