@@ -10,3 +10,5 @@ Thumbs.db
 
 launchSettings.json
 *_wpftmp.csproj
+WPFCoreDemo/obj/Debug
+WPFCoreDemo/obj
