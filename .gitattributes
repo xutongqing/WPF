@@ -1,0 +1,23 @@
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.ico filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+*.dat filter=lfs diff=lfs merge=lfs -text
+*.pak filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.nupkg filter=lfs diff=lfs merge=lfs -text
+*.chm filter=lfs diff=lfs merge=lfs -text
+
+# 外部目录
+/Files filter=lfs diff=lfs merge=lfs -text
+/Packages filter=lfs diff=lfs merge=lfs -text
+
+// 打包相关
+/Installer/OEM filter=lfs diff=lfs merge=lfs -text
+/Installer/Plugins filter=lfs diff=lfs merge=lfs -text
+/Installer/Required filter=lfs diff=lfs merge=lfs -text
